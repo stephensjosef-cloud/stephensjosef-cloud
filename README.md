@@ -1,4 +1,12 @@
-## Hi there 👋
+Josef Stephens
+Founder of Dragoman's Journey, Santa Rosa, California.
+
+I build AI productions that ship with their own proof. Everything I create with AI behaves properly, because I am painstakingly thorough and only rely on repeatable systems.
+
+Mainframe route: cobol-behavioral-equivalence, two AI translations of a banking program checked against the original, with the code, prompts and findings public.
+Local route: AI work for small businesses and nonprofits in Sonoma County, from a fixed-price two-week Blueprint.
+Shipping now: Bird League, a competitive birding app in beta with real players.
+Write to me: stephens.josef@gmail.com
 
 <!--
 **stephensjosef-cloud/stephensjosef-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
